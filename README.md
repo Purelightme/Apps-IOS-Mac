@@ -3,10 +3,15 @@
 * [vapor](https://github.com/qutheory/vapor)：Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.
 * [Kitura](https://github.com/IBM-Swift/Kitura)：Web framework and HTTP server for Swift
 * [Swifton](https://github.com/necolt/Swifton)：A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X
-* []()：
+* [Perfect](https://github.com/PerfectlySoft/Perfect)：Server-side Swift. The Perfect library, application server, connectors and example apps. (For mobile back-end development, website and web app development, and more...)
+* [swifter](https://github.com/glock45/swifter)：Tiny http server engine written in Swift programming language.
+* [blackfish](https://github.com/elliottminns/blackfish)：A non-blocking Swift web server, inspired by Express & Node.js
+* [Taylor](https://github.com/izqui/Taylor)：A lightweight library for writing HTTP web servers with Swift
+* [Zewo](https://github.com/Zewo/Zewo)：Server-Side Swift
 
 
 ##ios apps
+* [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan)：Open Source Weather App created with Swift
 * [Yep](https://github.com/CatchChat/Yep)：Meet Genius http://soyep.com
 * [ds_ios](https://github.com/doushiDev/ds_ios)：逗视iOS客户端
 * [Buck_Tracker](https://github.com/hkalexling/Buck_Tracker)：An iOS expense tracker app written in Swift
@@ -42,12 +47,14 @@
 * [Coding-iOS](https://github.com/Coding/Coding-iOS)：Coding iOS 客户端源代码
 * [furni-ios](https://github.com/twitterdev/furni-ios):Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform
 * [CocoaHeadsNL-iOS](https://github.com/CocoaHeadsNL/CocoaHeadsNL-iOS)：Repository for CocoaHeadsNL app.
+* 
 
 
 
 
 ##Mac apps
 
+* [SwiftEdit](https://github.com/jpsim/SwiftEdit)：A proof-of-concept editor, written in Swift, that supports Swift syntax highlighting using SourceKit.
 * [MonkeyForMac](https://github.com/coderyi/MonkeyForMac)：Monkey is a GitHub third party client,Monkey is a program ape.
 * [telegram](https://github.com/overtake/telegram)：Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 * [qmind](https://github.com/qvacua/qmind)：Mind mapping App for OS X compatible with FreeMind
