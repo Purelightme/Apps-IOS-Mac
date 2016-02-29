@@ -11,6 +11,10 @@
 
 
 ##ios apps
+* [icefishing](https://github.com/cuappdev/icefishing):A great way to share music with friends.
+* [eatery](https://github.com/cuappdev/eatery):An open source iOS application for Cornell eateries and dining halls.
+* [Eleven](https://github.com/coderyi/Eleven):Eleven Player is a simple powerful video player.use ffmpeg.
+* [Charter](https://github.com/matthewpalmer/Charter)：A Swift mailing list client for iPhone and iPad
 * [Project-RainMan](https://github.com/Mav3r1ck/Project-RainMan)：Open Source Weather App created with Swift
 * [Yep](https://github.com/CatchChat/Yep)：Meet Genius http://soyep.com
 * [ds_ios](https://github.com/doushiDev/ds_ios)：逗视iOS客户端
