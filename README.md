@@ -11,6 +11,10 @@
 
 
 ##ios apps
+* [MJianshu](https://github.com/Wl201314/MJianshu):Swift高仿简书（jianshu）
+* [V2ex-Swift](https://github.com/Finb/V2ex-Swift):An iOS client written in Swift for V2EX
+* [WNXHuntForCity](https://github.com/ZhongTaoTian/WNXHuntForCity):高仿城觅
+* [LoveFreshBeen](https://github.com/ZhongTaoTian/LoveFreshBeen):高仿爱鲜蜂
 * [icefishing](https://github.com/cuappdev/icefishing):A great way to share music with friends.
 * [eatery](https://github.com/cuappdev/eatery):An open source iOS application for Cornell eateries and dining halls.
 * [Eleven](https://github.com/coderyi/Eleven):Eleven Player is a simple powerful video player.use ffmpeg.
@@ -57,6 +61,7 @@
 
 
 ##Mac apps
+* [Dim](https://github.com/sveinbjornt/Dim):User-friendly, high quality document icon maker for OS X
 * [12306ForMac](https://github.com/fancymax/12306ForMac)：An unofficial 12306 client for mac
 * [SwiftEdit](https://github.com/jpsim/SwiftEdit)：A proof-of-concept editor, written in Swift, that supports Swift syntax highlighting using SourceKit.
 * [MonkeyForMac](https://github.com/coderyi/MonkeyForMac)：Monkey is a GitHub third party client,Monkey is a program ape.
